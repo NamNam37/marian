@@ -11,7 +11,7 @@ const Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 ${validate_component(AppShell, "AppShell").$$render($$result, {}, {}, {
     default: () => {
       return `
-	<main><div class="content"><header class="svelte-1j0lfzk"><a href="/"><button class="svelte-1j0lfzk">Na Hlavní Stránku</button></a></header>
+	<main><div class="content"><header class="svelte-1j0lfzk"><a href="./"><button class="svelte-1j0lfzk">Na Hlavní Stránku</button></a></header>
 			${slots.default ? slots.default({}) : ``}</div></main>`;
     }
   })}`;

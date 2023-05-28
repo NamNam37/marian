@@ -107,7 +107,7 @@ function Reset()
 </div>
 <div class="challenges">
 	{#if mathDone == 'false'}
-		<a href="/math"
+		<a href="./math"
 			><div class="math chal">
 				<svg xmlns="http://www.w3.org/2000/svg" height="80" viewBox="0 -960 960 960" width="80"
 					><path
@@ -127,7 +127,7 @@ function Reset()
 		</div>
 	{/if}
 	{#if codeDone == 'false'}
-	<a href="/code"
+	<a href="./code"
 		><div class="code chal">
 			<svg xmlns="http://www.w3.org/2000/svg" height="80" viewBox="0 -960 960 960" width="80"
 				><path
@@ -147,7 +147,7 @@ function Reset()
 		</div>
 	{/if}
 	{#if cjDone == 'false'}
-	<a href="/cj"
+	<a href="./cj"
 		><div class="cj chal">
 			<svg xmlns="http://www.w3.org/2000/svg" height="80" viewBox="0 -960 960 960" width="80"
 				><path
@@ -167,7 +167,7 @@ function Reset()
 		</div>
 	{/if}
 	{#if gamingDone == 'false'}
-	<a href="/gaming"
+	<a href="./gaming"
 		><div class="gaming chal">
 			<svg xmlns="http://www.w3.org/2000/svg" height="80" viewBox="0 -960 960 960" width="80"
 				><path
@@ -190,7 +190,7 @@ function Reset()
 
 {#if (counter == 4)}
 <div class="finish">
- 	<a href="/congrats"><button>Pokračovat</button></a>	
+ 	<a href="./congrats"><button>Pokračovat</button></a>	
 </div>
 
 {/if}

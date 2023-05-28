@@ -9,7 +9,7 @@
 		});
 
 		await cjPromise;
-		goto("/");
+		goto("./");
 	}
 
 	let answer = '';

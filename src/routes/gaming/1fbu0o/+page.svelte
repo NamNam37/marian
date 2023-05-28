@@ -34,6 +34,6 @@
 
 {#if answer == '0'}
     <h1>ANO! to je správně</h1>
-    <a href="/gaming/2ik81g"><button>Pokračovat</button></a> 
+    <a href="./gaming/2ik81g"><button>Pokračovat</button></a> 
 {/if}
 </main>

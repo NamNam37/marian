@@ -13,7 +13,7 @@
 	<main>
 		<div class="content">
 			<header>
-				<a href="/"><button>Na Hlavní Stránku</button></a>
+				<a href="./"><button>Na Hlavní Stránku</button></a>
 			</header>
 			<slot />
 		</div>

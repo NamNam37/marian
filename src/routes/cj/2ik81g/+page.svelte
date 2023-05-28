@@ -154,6 +154,6 @@
 
 {#if done == true}
     <h1>ANO! to je správně</h1>
-    <a href="/cj/3usn00"><button>Pokračovat</button></a> 
+    <a href="./cj/3usn00"><button>Pokračovat</button></a> 
 {/if}
 </main>

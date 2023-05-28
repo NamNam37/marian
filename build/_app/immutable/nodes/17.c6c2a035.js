@@ -1,1 +1,0 @@
-import{S as s,i as e,s as n}from"../chunks/index.1fe49b4b.js";import{g as a}from"../chunks/navigation.214b8065.js";function r(t){return a("/cj/1fbu0a"),[]}class u extends s{constructor(o){super(),e(this,o,r,null,n,{})}}export{u as component};

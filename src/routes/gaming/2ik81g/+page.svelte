@@ -34,6 +34,6 @@
 
 {#if answer == 'Dedsec' || answer == 'dedsec' || answer == 'Ded sec' || answer == 'ded sec' || answer == 'Ded-sec' || answer == 'ded-sec'}
     <h1>ANO! to je správně</h1>
-    <a href="/gaming/3usn00"><button>Pokračovat</button></a> 
+    <a href="./gaming/3usn00"><button>Pokračovat</button></a> 
 {/if}
 </main>

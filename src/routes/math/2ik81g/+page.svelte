@@ -34,6 +34,6 @@
 
 {#if answer == '1/2' || answer == '0,5'|| answer == '0.5'}
     <h1>ANO! to je správně</h1>
-    <a href="/math/3usn00"><button>Pokračovat</button></a> 
+    <a href="./math/3usn00"><button>Pokračovat</button></a> 
 {/if}
 </main>
