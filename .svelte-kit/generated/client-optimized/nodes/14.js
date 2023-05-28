@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/math/2ik81g/+layout.svelte";

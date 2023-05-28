@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/gaming/1fbu0o/+layout.svelte";
