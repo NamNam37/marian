@@ -1,4 +1,4 @@
-<script lang='ts'>
+<script lang="ts">
 	// The ordering of these imports is critical to your app working properly
 	import '@skeletonlabs/skeleton/themes/theme-crimson.css';
 	// If you have source.organizeImports set to true in VSCode, then it will auto change this ordering
@@ -7,6 +7,7 @@
 	import '../app.postcss';
 	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
 	export const prerender = true;
+	export const ssr = true;
 </script>
 
 <!-- App Shell -->
@@ -23,11 +24,10 @@
 	main {
 		display: flex;
 		justify-content: center;
-		background-color: rgb(171,35,40);
+		background-color: rgb(171, 35, 40);
 		height: 100%;
 	}
 	.content {
-		
 		width: 390px;
 	}
 	* {

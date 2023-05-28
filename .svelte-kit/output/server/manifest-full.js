@@ -4,7 +4,7 @@ export const manifest = {
 	assets: new Set(["default.png","favicon.png"]),
 	mimeTypes: {".png":"image/png"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.6012e586.js","app":"_app/immutable/entry/app.a97f1bfc.js","imports":["_app/immutable/entry/start.6012e586.js","_app/immutable/chunks/index.1fe49b4b.js","_app/immutable/chunks/singletons.21eec9ee.js","_app/immutable/chunks/index.7e7992d5.js","_app/immutable/chunks/paths.dfa2fc24.js","_app/immutable/entry/app.a97f1bfc.js","_app/immutable/chunks/index.1fe49b4b.js"],"stylesheets":[],"fonts":[]},
+		client: {"start":"_app/immutable/entry/start.4854a57f.js","app":"_app/immutable/entry/app.3a6e5849.js","imports":["_app/immutable/entry/start.4854a57f.js","_app/immutable/chunks/index.1fe49b4b.js","_app/immutable/chunks/singletons.d77d53e0.js","_app/immutable/chunks/index.7e7992d5.js","_app/immutable/chunks/paths.05b9c0ba.js","_app/immutable/entry/app.3a6e5849.js","_app/immutable/chunks/index.1fe49b4b.js"],"stylesheets":[],"fonts":[]},
 		nodes: [
 			() => import('./nodes/0.js'),
 			() => import('./nodes/1.js'),
