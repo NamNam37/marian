@@ -36,6 +36,7 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-static": "^2.0.2",
+		"@sveltejs/adapter-vercel": "^3.0.0",
 		"localStorage": "^1.0.4",
 		"svelte-dnd-action": "^0.9.22",
 		"svelte-local-storage-store": "^0.4.0"

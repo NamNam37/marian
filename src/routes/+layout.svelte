@@ -7,7 +7,6 @@
 	import '../app.postcss';
 	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
 	export const prerender = true;
-	export const ssr = true;
 </script>
 
 <!-- App Shell -->
